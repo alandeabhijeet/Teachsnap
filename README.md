@@ -45,6 +45,12 @@ TechSnap is an innovative, fully animated, and responsive web application design
 
 Check out the live demo of TechSnap at [TechSnap Live Demo](https://teachsnap.onrender.com).
 
+## 🎥 **Video Demonstration**
+[![Watch the video](https://img.youtube.com/vi/s0oPEOilfYg/0.jpg)](https://www.youtube.com/watch?v=s0oPEOilfYg)
+
+---
+
+
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/) to install the required dependencies for TechSnap.
